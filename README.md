@@ -1,0 +1,2 @@
+# sptsway.github.io
+psyduck
